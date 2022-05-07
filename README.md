@@ -1,7 +1,7 @@
 #### Current Status:
 😄 I’m currently searching a job...
 
-📧 Contact me: via email.
+📧 [Contact me](mailto:echooy.mxq@gmail.com)
 
 <!-- [![stats](https://github-readme-stats.vercel.app/api?username=echooymxq&show_icons=true)](https://github.com/echooymxq) -->
 
