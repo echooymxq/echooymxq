@@ -1,5 +1,5 @@
 #### Current Status:
-😄 I’m currently searching a job...
+😄 Study distributed message.
 
 📧 [Contact me](mailto:echooy.mxq@gmail.com)
 
