@@ -1,5 +1,3 @@
-#### Current Status:
-😄 Study distributed message.
 
 📧 [Contact me](mailto:echooy.mxq@gmail.com)
 
